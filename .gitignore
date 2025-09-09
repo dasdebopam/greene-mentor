@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Environment secrets
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Index files (can rebuild anytime)
+index/*.npy
+index/*.jsonl
